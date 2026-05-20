@@ -1,1 +1,2 @@
 # mirtash-sales
+Для себя
